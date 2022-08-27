@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dzonibg
-- 👀 I’m interested in APIs & separate frontend development.
+- 👀 I’m interested in APIs, frontend development, system & services administration.
 - 🌱 I’m currently learning PGSQL & ReactJS.
 - 💞️ I’m looking to collaborate on anything that's a good idea and can have a good implementation.
 - 📫 How to reach me - try here for start!
